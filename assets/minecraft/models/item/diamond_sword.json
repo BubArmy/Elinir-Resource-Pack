@@ -1,0 +1,17 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_sword"
+    },
+ 
+    "overrides":[
+ 
+        {"predicate": {"custom_model_data":1}, "model": "item/custom/sword_1"},
+        {"predicate": {"custom_model_data":2}, "model": "item/custom/sword_2"},
+        {"predicate": {"custom_model_data":3}, "model": "item/custom/sword_3"},
+		{"predicate": {"custom_model_data":4}, "model": "item/custom/sword_4"},
+		{"predicate": {"custom_model_data":5}, "model": "item/custom/sword_4b"},
+		{"predicate": {"custom_model_data":6}, "model": "item/custom/malockianhammer"}
+     ]
+ 
+}

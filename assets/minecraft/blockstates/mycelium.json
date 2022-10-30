@@ -1,0 +1,27 @@
+{
+    "variants": {
+        "snowy=false": [
+            { "model": "block/mycelium", "weight": 5 },
+            { "model": "block/mycelium", "weight": 5, "y": 90 },
+			{ "model": "block/mycelium", "weight": 5, "y": 180 },
+			{ "model": "block/mycelium", "weight": 5, "y": 270 },
+            { "model": "block/mycelium_1", "weight": 5 },
+			{ "model": "block/mycelium_1", "weight": 5, "y": 90 },
+			{ "model": "block/mycelium_1", "weight": 5, "y": 180 },
+			{ "model": "block/mycelium_1", "weight": 5, "y": 270 },
+			{ "model": "block/mycelium_2", "weight": 3 },
+			{ "model": "block/mycelium_2", "weight": 3, "y": 90 },
+			{ "model": "block/mycelium_2", "weight": 3, "y": 180 },
+			{ "model": "block/mycelium_2", "weight": 3, "y": 270 },
+			{ "model": "block/mycelium_3", "weight": 2 },
+			{ "model": "block/mycelium_3", "weight": 2, "y": 90 },
+			{ "model": "block/mycelium_3", "weight": 2, "y": 180 },
+			{ "model": "block/mycelium_3", "weight": 2, "y": 270 },
+			{ "model": "block/mycelium_4", "weight": 5 },
+			{ "model": "block/mycelium_4", "weight": 5, "y": 90 },
+			{ "model": "block/mycelium_4", "weight": 5, "y": 180 },
+			{ "model": "block/mycelium_4", "weight": 5, "y": 270 }
+        ],
+        "snowy=true": { "model": "block/grass_block_snow" }
+    }
+}

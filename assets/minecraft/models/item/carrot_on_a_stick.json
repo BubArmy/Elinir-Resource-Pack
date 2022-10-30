@@ -1,0 +1,23 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+ 
+    "overrides":[
+ 
+        {"predicate": {"custom_model_data":1}, "model": "item/custom/wand_1"},
+        {"predicate": {"custom_model_data":2}, "model": "item/custom/wand_2"},
+        {"predicate": {"custom_model_data":3}, "model": "item/custom/wand_3"},
+        {"predicate": {"custom_model_data":4}, "model": "item/custom/wand_4"},
+        {"predicate": {"custom_model_data":5}, "model": "item/custom/wand_5"},
+        {"predicate": {"custom_model_data":6}, "model": "item/custom/wand_6"},
+        {"predicate": {"custom_model_data":7}, "model": "item/custom/wand_7"},
+        {"predicate": {"custom_model_data":8}, "model": "item/custom/wand_8"},
+		{"predicate": {"custom_model_data":9}, "model": "item/custom/wand_9"},
+		{"predicate": {"custom_model_data":10}, "model": "item/custom/wand_10"},
+		{"predicate": {"custom_model_data":11}, "model": "item/custom/sword4"},
+		{"predicate": {"custom_model_data":12}, "model": "item/custom/sword4b"}
+     ]
+ 
+}

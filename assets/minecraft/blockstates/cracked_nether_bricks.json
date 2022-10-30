@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/cracked_nether_bricks", "weight": 5 },
+            { "model": "block/cracked_nether_bricks_1", "weight": 5 },
+			{ "model": "block/cracked_nether_bricks_2", "weight": 5 },
+			{ "model": "block/cracked_nether_bricks_3", "weight": 5 },
+			{ "model": "block/cracked_nether_bricks_4", "weight": 5 }
+        ]
+    }
+}

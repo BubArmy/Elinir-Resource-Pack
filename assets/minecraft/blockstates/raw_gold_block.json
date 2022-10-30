@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/raw_gold_block", "weight": 5 },
+			{ "model": "block/raw_gold_block_1", "weight": 5 },
+			{ "model": "block/raw_gold_block_2", "weight": 5 },
+			{ "model": "block/raw_gold_block_3", "weight": 5 },
+			{ "model": "block/raw_gold_block_4", "weight": 5 }
+        ]
+    }
+}

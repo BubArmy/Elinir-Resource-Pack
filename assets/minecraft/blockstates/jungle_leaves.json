@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/jungle_leaves", "weight": 5 },
+            { "model": "block/jungle_leaves", "weight": 5, "y": 90, "x": 90 },
+			{ "model": "block/jungle_leaves", "weight": 5, "y": 180, "x": 180 },
+			{ "model": "block/jungle_leaves", "weight": 5, "y": 270, "x": 270 }
+        ]
+    }
+}

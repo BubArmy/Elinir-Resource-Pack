@@ -1,0 +1,14 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/custom/meme/aidan_happy"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [51, -2, -1],
+			"translation": [-3.75, 6, 0],
+			"scale": [4, 4, 0.62]
+		}
+	}
+}

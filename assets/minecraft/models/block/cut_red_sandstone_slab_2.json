@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "block/cut_red_sandstone_2",
+        "top": "block/cut_red_sandstone_2",
+        "side": "block/cut_red_sandstone_2"
+    }
+}

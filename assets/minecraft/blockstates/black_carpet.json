@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [ 
+		{ "model": "block/black_carpet" },
+		{ "model": "block/black_carpet", "weight": 5, "y": 90 },
+		{ "model": "block/black_carpet", "weight": 5, "y": 180 },
+		{ "model": "block/black_carpet", "weight": 5, "y": 270 } 
+		]
+    }
+}

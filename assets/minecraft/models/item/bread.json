@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/bread"
+	},
+  
+    "overrides":[
+ 
+        {"predicate": {"custom_model_data":1}, "model": "item/custom/food/croissant"},
+		{"predicate": {"custom_model_data":2}, "model": "item/custom/food/taco"},
+		{"predicate": {"custom_model_data":3}, "model": "item/custom/food/nachos"},
+		{"predicate": {"custom_model_data":4}, "model": "item/custom/food/egg_toast"}
+     ]
+ 
+}
+}

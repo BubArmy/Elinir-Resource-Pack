@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/coal"
+	},
+  
+    "overrides":[
+ 
+        {"predicate": {"custom_model_data":1}, "model": "item/custom/aidan_happy"},
+		{"predicate": {"custom_model_data":2}, "model": "item/custom/darren_kimono"},
+		{"predicate": {"custom_model_data":3}, "model": "item/custom/darren_singer"},
+		{"predicate": {"custom_model_data":4}, "model": "item/custom/vbucks"},
+		{"predicate": {"custom_model_data":5}, "model": "item/custom/unsealed_spellbook"},
+		{"predicate": {"custom_model_data":10000}, "model": "item/custom/customModels/Bub"},
+		{"predicate": {"custom_model_data":10001}, "model": "item/custom/customModels/Bub2"},
+		{"predicate": {"custom_model_data":10002}, "model": "item/custom/customModels/Bub3"},
+		{"predicate": {"custom_model_data":10003}, "model": "item/custom/customModels/Bub4"},
+		{"predicate": {"custom_model_data":20000}, "model": "item/custom/customModels/Drone"},
+		{"predicate": {"custom_model_data":20001}, "model": "item/custom/customModels/Drone2"},
+		{"predicate": {"custom_model_data":20002}, "model": "item/custom/customModels/Drone3"},
+		{"predicate": {"custom_model_data":20003}, "model": "item/custom/customModels/Drone4"},
+		{"predicate": {"custom_model_data":30000}, "model": "item/custom/customModels/BoF"},
+		{"predicate": {"custom_model_data":30001}, "model": "item/custom/customModels/BoF2"},
+		{"predicate": {"custom_model_data":30002}, "model": "item/custom/customModels/BoF3"}
+     ]
+ 
+}
+}

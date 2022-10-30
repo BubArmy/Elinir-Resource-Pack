@@ -1,0 +1,106 @@
+{
+  "lumebgm1": {
+    "sounds": [
+      "custom/lumebgm1" ]
+  },
+  "lumebattlebgm1": {
+    "sounds": [
+      "custom/lumebattlebgm1" ]
+  },
+  "lumebattlebgm2": {
+    "sounds": [
+      "custom/lumebattlebgm2" ]
+  },
+  "lumebattlebgm3": {
+    "sounds": [
+      "custom/lumebattlebgm3" ]
+  },
+  "lumemiscbgm1": {
+    "sounds": [
+      "custom/lumemiscbgm1" ]
+  },
+  "lumemiscbgm2": {
+    "sounds": [
+      "custom/lumemiscbgm2" ]
+  },
+  "lumemiscbgm3": {
+    "sounds": [
+      "custom/lumemiscbgm3" ]
+  },
+  "lumemiscbgm4": {
+    "sounds": [
+      "custom/lumemiscbgm4" ]
+  },
+  "lumebossroar": {
+    "sounds": [
+      "custom/lumebossroar" ]
+  },
+  "lumebgm2": {
+    "sounds": [
+      "custom/lumebgm2" ]
+  },
+  "lumebgm3": {
+    "sounds": [
+      "custom/lumebgm3" ]
+  },
+  "elinirbgm1": {
+    "sounds": [
+      "custom/elinirbgm1" ]
+  },
+  "elinirbgm2": {
+    "sounds": [
+      "custom/elinirbgm2" ]
+  },
+  "elinirbgm3": {
+    "sounds": [
+      "custom/elinirbgm3" ]
+  },
+  "elinirbgm4": {
+    "sounds": [
+      "custom/elinirbgm4" ]
+  },
+  "elinirbgm5": {
+    "sounds": [
+      "custom/elinirbgm5" ]
+  },
+  "elinirbgm6": {
+    "sounds": [
+      "custom/elinirbgm6" ]
+  },
+  "elinirbgm7": {
+    "sounds": [
+      "custom/elinirbgm7" ]
+  },
+  "elinirbgm8": {
+    "sounds": [
+      "custom/elinirbgm8" ]
+  },
+  "elinirbgm9": {
+    "sounds": [
+      "custom/elinirbgm9" ]
+  },
+  "elinirbgm10": {
+    "sounds": [
+      "custom/elinirbgm10" ]
+  },
+  "elinirbattlebgm1": {
+    "sounds": [
+      "custom/elinirbattlebgm1" ]
+  },
+  "elinirbattlebgm2": {
+    "sounds": [
+      "custom/elinirbattlebgm2" ]
+  },
+  "winterbgm": {
+    "sounds": [
+      "custom/winterbgm" ]
+  },
+  "lumebattlebgmend1": {
+    "sounds": [
+      "custom/lumebattlebgmend1" ]
+  },
+  "doorbell": {
+    "sounds": [
+      "custom/doorbell" ]
+  }
+ }

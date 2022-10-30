@@ -1,0 +1,26 @@
+{
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"submodels": [
+				{
+					"id": "nose2",
+					"invertAxis": "xy",
+					"translate": [0, 28, -4.5],
+					"rotate": [15, 0, 0],
+					"boxes": [
+						{"coordinates": [-0.5, -1.5, 0, 1, 4, 1], "textureOffset": [4, 1]},
+						{"coordinates": [-1, -1.6, -0.1, 2, 1, 1], "textureOffset": [2, 6]}
+					]
+				}
+			],
+			"boxes": [
+				{"coordinates": [-4, 24, -4, 8, 10, 8], "textureOffset": [0, 0]}
+			]
+		}
+	]
+}

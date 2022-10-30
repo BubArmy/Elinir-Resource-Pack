@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/clay", "weight": 5 },
+			{ "model": "block/clay_1", "weight": 5 },
+			{ "model": "block/clay_2", "weight": 5 },
+			{ "model": "block/clay_3", "weight": 5 },
+			{ "model": "block/clay_4", "weight": 5 }
+        ]
+    }
+}

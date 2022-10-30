@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/golden_apple"
+	},
+  
+    "overrides":[
+ 
+        {"predicate": {"custom_model_data":1}, "model": "item/custom/food/pesto_pasta"},
+		{"predicate": {"custom_model_data":2}, "model": "item/custom/food/ramen"},
+		{"predicate": {"custom_model_data":3}, "model": "item/custom/food/ramen_spicy"}
+     ]
+ 
+}
+}

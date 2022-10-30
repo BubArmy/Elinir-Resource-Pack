@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/flowering_azalea", "weight": 5 },
+            { "model": "block/flowering_azalea", "weight": 5, "y": 90 },
+			{ "model": "block/flowering_azalea", "weight": 5, "y": 180 },
+			{ "model": "block/flowering_azalea", "weight": 5, "y": 270 }
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [ 
+	{ "model": "block/packed_ice" },
+	{ "model": "block/packed_ice_1" },
+	{ "model": "block/packed_ice_2" },
+	{ "model": "block/packed_ice_3" },
+	{ "model": "block/packed_ice_4" }
+	]
+  }
+}

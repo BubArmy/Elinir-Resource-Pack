@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/purpur_block", "weight": 5 },
+            { "model": "block/purpur_block", "weight": 5, "x": 90, "y": 90 },
+			{ "model": "block/purpur_block", "weight": 5, "x": 180, "y": 180 },
+			{ "model": "block/purpur_block", "weight": 5, "x": 270, "y": 270 },
+            { "model": "block/purpur_block_1", "weight": 2 },
+			{ "model": "block/purpur_block_1", "weight": 2, "x": 90, "y": 90 },
+			{ "model": "block/purpur_block_1", "weight": 2, "x": 180, "y": 180 },
+			{ "model": "block/purpur_block_1", "weight": 2, "x": 270, "y": 270 },
+			{ "model": "block/purpur_block_2", "weight": 2 },
+			{ "model": "block/purpur_block_2", "weight": 2, "x": 90, "y": 90 },
+			{ "model": "block/purpur_block_2", "weight": 2, "x": 180, "y": 180 },
+			{ "model": "block/purpur_block_2", "weight": 2, "x": 270, "y": 270 },
+			{ "model": "block/purpur_block_3", "weight": 2 },
+			{ "model": "block/purpur_block_3", "weight": 2, "x": 90, "y": 90 },
+			{ "model": "block/purpur_block_3", "weight": 2, "x": 180, "y": 180 },
+			{ "model": "block/purpur_block_3", "weight": 2, "x": 270, "y": 270 }
+        ]
+    }
+}

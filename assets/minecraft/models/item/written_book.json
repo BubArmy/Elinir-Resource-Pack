@@ -1,0 +1,22 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/written_book"
+    },
+ 
+    "overrides":[
+ 
+        {"predicate": {"custom_model_data":1}, "model": "item/custom/spell_book"},
+        {"predicate": {"custom_model_data":2}, "model": "item/custom/song_player"},
+        {"predicate": {"custom_model_data":3}, "model": "item/custom/sword_3"},
+        {"predicate": {"custom_model_data":10000}, "model": "item/custom/eshopcard"},
+		{"predicate": {"custom_model_data":10001}, "model": "item/custom/moonlight_old"},
+		{"predicate": {"custom_model_data":10002}, "model": "item/custom/nightfall_old"},
+		{"predicate": {"custom_model_data":10003}, "model": "item/custom/song_book"},
+        {"predicate": {"custom_model_data":10004}, "model": "item/custom/darren_icon"},
+        {"predicate": {"custom_model_data":10005}, "model": "item/custom/minh_icon"},
+        {"predicate": {"custom_model_data":10006}, "model": "item/custom/percy_icon"},
+        {"predicate": {"custom_model_data":10007}, "model": "item/custom/darren_icon_old"}
+     ]
+ 
+}

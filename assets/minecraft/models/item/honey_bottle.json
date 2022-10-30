@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/honey_bottle"
+	},
+  
+    "overrides":[
+ 
+        {"predicate": {"custom_model_data":1}, "model": "item/custom/food/drink/apple_cider"},
+		{"predicate": {"custom_model_data":2}, "model": "item/custom/food/drink/coffee"},
+		{"predicate": {"custom_model_data":3}, "model": "item/custom/food/drink/green_tea"},
+		{"predicate": {"custom_model_data":4}, "model": "item/custom/food/drink/hot_chocolate"},
+		{"predicate": {"custom_model_data":5}, "model": "item/custom/food/drink/lemonade"},
+		{"predicate": {"custom_model_data":6}, "model": "item/custom/food/drink/water_bottle"}
+     ]
+ 
+}
+}

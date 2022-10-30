@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "type=bottom": [ 
+		{ "model": "block/dark_prismarine_slab" },
+		{ "model": "block/dark_prismarine_slab_1" },
+		{ "model": "block/dark_prismarine_slab_2" }
+		],
+        "type=top": [ 
+		{ "model": "block/dark_prismarine_slab_top" },
+		{ "model": "block/dark_prismarine_slab_top_1" },
+		{ "model": "block/dark_prismarine_slab_top_2" }
+		],
+        "type=double": [ 
+		{ "model": "block/dark_prismarine" },
+		{ "model": "block/dark_prismarine_1" },
+		{ "model": "block/dark_prismarine_2" }
+		]
+    }
+}
