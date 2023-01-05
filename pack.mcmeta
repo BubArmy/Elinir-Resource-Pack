@@ -1,8 +1,8 @@
 {
 	"pack":
 	{
-	"name": "Elinir's Resource Pack",
-	"pack_format": 9,
-	"description": "An arcane makeover for an arcane world. (Uses Wanderlust as the base texture pack.)"
+		"name": "Elinir's Resource Pack",
+		"pack_format": 12,
+		"description": "An arcane makeover for an arcane world. (Uses Wanderlust as the base texture pack.)"
 	}
 }
