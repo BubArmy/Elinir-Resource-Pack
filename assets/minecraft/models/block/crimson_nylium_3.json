@@ -1,8 +1,0 @@
-{
-    "parent": "block/cube_bottom_top",
-    "textures": {
-        "bottom": "block/netherrack_3",
-        "top": "block/crimson_nylium_3",
-        "side": "block/crimson_nylium_side_3"
-    }
-}
