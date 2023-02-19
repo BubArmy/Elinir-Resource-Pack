@@ -1,8 +1,8 @@
 {
 	"pack":
 	{
-		"name": "Elinir's Resource Pack",
-		"pack_format": 12,
-		"description": "An arcane makeover for an arcane world. (Uses Wanderlust as the base texture pack.)"
+	"name": "Elinir's Resource Pack 1.2",
+	"pack_format": 12,
+	"description": "A resource pack made for the Elinir Server that adds many custom items, music, and models."
 	}
 }
