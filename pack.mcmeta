@@ -1,8 +1,7 @@
 {
-	"pack":
-	{
-	"name": "Elinir's Resource Pack 1.2",
-	"pack_format": 12,
-	"description": "A resource pack made for the Elinir Server that adds many custom items, music, and models."
-	}
+    "pack": {
+        "name": "Elinir's Resource Pack 1.2",
+        "pack_format": 12,
+        "description": "A resource pack made for the Elinir Server that adds many custom items, music, and models."
+    }
 }

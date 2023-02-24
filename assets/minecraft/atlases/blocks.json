@@ -1,0 +1,13 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "Documents",
+            "prefix": "Documents/"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:Bubnose"
+        }
+    ]
+}
