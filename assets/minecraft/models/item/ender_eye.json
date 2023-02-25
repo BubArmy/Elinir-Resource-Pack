@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld_rod",
     "textures": {
-        "layer0": "item/carrot_on_a_stick"
+        "layer0": "item/ender_eye"
     },
  
     "overrides":[
@@ -35,9 +35,7 @@
         {"predicate": {"custom_model_data":10026}, "model": "item/custom/wand/wand_27"},
         {"predicate": {"custom_model_data":10027}, "model": "item/custom/wand/wand_28"},
 		{"predicate": {"custom_model_data":10028}, "model": "item/custom/wand/wand_29"},
-		{"predicate": {"custom_model_data":10029}, "model": "item/custom/wand/wand_30"},
-		{"predicate": {"custom_model_data":11000}, "model": "item/custom/sword4"},
-		{"predicate": {"custom_model_data":11001}, "model": "item/custom/sword4b"}
+		{"predicate": {"custom_model_data":10029}, "model": "item/custom/wand/wand_30"}
      ]
  
 }
